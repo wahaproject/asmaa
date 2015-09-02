@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Asmaa
+Comment=library for islamic books
+Comment[ar]=مكتبة إسلامية عربية
+Exec=asmaa
+Icon=asmaa
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=X-Islamic-Software;GTK;Office;
+StartupNotify=True
+Name[en]=Asmaa
+Name[ar]=مكتبة أسماء
+

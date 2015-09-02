@@ -1,0 +1,48 @@
+body   {
+	  	background-color: #FCFDEB;
+		margin-top: 20px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		margin-left: 20px;
+    }
+#mypage {
+	  	border-width: 65px;
+		-moz-border-image: url(b_nasse.png) 65 65 round;
+		-webkit-border-image: url(b_nasse.png) 65 65 round;
+		color: #204000;
+		text-align: right;
+	}
+
+#nasse {
+        font-family: Amiri Quran;
+        font-size: 200%;
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+
+#basmala {
+        font-family: Amiri Quran;
+        font-size: 200%;
+        color: red;
+        text-align: center;
+    }
+    
+#myhead {
+        color: #555555;
+        width: 95%;
+        font-family: KacstOne;
+        text-align: center;
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+
+#mytitle {
+        border-width: 10px 10px;
+        -moz-border-image: url(b_title.png) 10 10 round;
+        -webkit-border-image: url(b_title.png) 10 10 round;
+        color: #204000;
+        text-align: center;
+        margin-top: 10px;
+        font-family: Amiri Quran;
+        font-size: 100%;
+    }
